@@ -1,33 +1,12 @@
-# 📂 PDF Manager
+<h1 align="center">Gestion PDF</h1>
 
-## 📜 Description
+<div align="center">
+    <p>A Python Tkinter app to categorize, view, and organize PDF documents by subject</p>
+    <img src="https://img.shields.io/badge/Status-Unmaintained-critical?style=for-the-badge">
+</div>
 
-**PDF Manager** is an application developed in Python with Tkinter that allows users to manage PDF files by sorting them by subject. It enables adding, deleting, and viewing PDF files in different categories.
+<br>
 
-## ⚡ Features
-
-- Interactive graphical interface with Tkinter.
-- Sorting of PDF files by subject.
-- Adding and deleting PDF files.
-- Display of the number of PDFs per category.
-
-## 🛠️ Prerequisites
-
-Make sure you have Python installed on your machine.
-
-## 🚀 Installation and Execution
-
-1. Clone this repository or download the `main.py` file.
-2. Run the script with the command:
-   ```
-   python main.py
-   ```
-3. Add and manage your PDF files as needed.
-
-## ⚠️ Project Status
-
-This project has not been maintained for over 2 years. Its current functionality is not guaranteed.
-
-## 📜 License
-
-This project is licensed under the MIT license. You are free to modify and redistribute it.
+> [!WARNING]
+> **This repository is no longer maintained.**  
+> It is kept for reference purposes only. No further updates, bug fixes, or support will be provided. Feel free to fork.
